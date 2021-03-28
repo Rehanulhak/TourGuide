@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TourGuide</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome_to_garden_city">Welcome to Garden City!</string>
+    <string name="here_are_some_of_the_points_of_interest_that_you_should_consider_visiting">Here are some of the points of interest that you should consider visiting:</string>
+    <string name="image_of_attraction_point_of_interest">Image of attraction/point of interest</string>
+    <string name="we_hope_you_have_a_fun_time_exploring_our_city">We hope you have a fun time exploring our city!</string>
+    <string name="click_on_an_image_to_see_more">Click on an image to see more!</string>
+    <string name="location_description">Location Description</string>
+    <string name="location_name">Location Name</string>
+</resources>
