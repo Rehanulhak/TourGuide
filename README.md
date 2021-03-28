@@ -3,7 +3,6 @@ Android Project for the Android Basics NanoDegree by Udacity. This project imple
 a user is interested with a virtual tour.
 
 ## Installation
-Markup: 
 * Android Studio 4.1.x
 * Android SDK 30
 * Download the project as a zip and import it using Android Studio. Android Studio should set everything up automatically
